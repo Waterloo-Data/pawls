@@ -5,6 +5,7 @@ pdf2image
 pandas 
 scikit-learn
 tabulate
+numpy
 
 # S3 access
 boto3
